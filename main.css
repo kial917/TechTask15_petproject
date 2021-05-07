@@ -1,0 +1,16 @@
+button {
+    width: fit-content;
+    block-size: fit-content;
+    background: rgb(47, 206, 255);
+    border-radius: 8px;
+    color: aliceblue;
+    font-size: 16px;
+}
+#objOutput{
+    font-size: 16px;
+    color: red;
+}
+#arr1, #arr2{
+    display: inline-block;
+    color:red
+}
